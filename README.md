@@ -1,2 +1,2 @@
 # dymondmyn
-An extendsible command line / gui tool for general tasks
+An extensible command line / gui tool for general tasks
